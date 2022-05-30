@@ -1,0 +1,36 @@
+/* 
+  ReadMe.strings
+  EmployeeDirectoryApp
+
+  Created by Twinkle on 2022-04-09.
+ 
+ ## Build tools & versions used
+ Xcode Version 13.2.1
+ Latest Swift UI
+
+ ## Steps to run the app
+Download project then allow and trust -> command + R
+Play run project >
+ 
+ ## What areas of the app did you focus on?
+Design of app via Swift UI
+Logic of data sorting via Swift UI
+ 
+ ## What was the reason for your focus? What problems were you trying to solve?
+ json data show in design via swift ui  and placeholder used inplace of imageload take more time
+
+ ## How long did you spend on this project?
+ 4 hours
+
+ ## Did you make any trade-offs for this project? What would you have done differently with more time?
+ sorting via name with Swift UI and json data change will show ASAP in
+ app as well
+
+ ## What do you think is the weakest part of your project?
+ @ObservedObject and @Published which is storing memory
+
+ ## Is there any other information you’d like us to know?
+ Learn and build app via Swift UI
+
+*/
+
