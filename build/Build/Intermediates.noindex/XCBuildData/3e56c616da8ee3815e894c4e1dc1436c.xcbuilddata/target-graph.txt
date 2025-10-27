@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'EmployeeDirectoryApp' in project 'EmployeeDirectoryApp' (no dependencies)
