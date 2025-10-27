@@ -1,0 +1,16 @@
+{
+  "source": "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/View/EmployeeDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Employee Directory",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 27
+        }
+      }
+    ]
+  },
+  "version": 1
+}

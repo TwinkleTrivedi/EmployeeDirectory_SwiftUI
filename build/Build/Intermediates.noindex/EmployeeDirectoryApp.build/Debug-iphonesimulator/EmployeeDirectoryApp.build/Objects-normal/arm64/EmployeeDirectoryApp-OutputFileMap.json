@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDirectoryApp-master.dia",
+    "emit-module-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDirectoryApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDirectoryApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDirectoryApp-master.swiftdeps"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/AppDelegate.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/ContentView.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/Model/EmployeeImageModel.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageModel~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/Model/EmployeeModel.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeModel~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/SceneDelegate.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/View/EmployeeDetailView.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeDetailView~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/View/EmployeeImageUrlView.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageUrlView~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/ViewModel/EmployeeImageViewModel.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeImageViewModel~partial.swiftmodule"
+  },
+  "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/EmployeeDirectoryApp/ViewModel/EmployeeListViewModel.swift" : {
+    "const-values" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.d",
+    "diagnostics" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.dia",
+    "index-unit-output-path" : "/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.o",
+    "llvm-bc" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.bc",
+    "object" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.o",
+    "swift-dependencies" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/twinklet/Documents/GitHub/EmployeeDirectory_SwiftUI/build/Build/Intermediates.noindex/EmployeeDirectoryApp.build/Debug-iphonesimulator/EmployeeDirectoryApp.build/Objects-normal/arm64/EmployeeListViewModel~partial.swiftmodule"
+  }
+}

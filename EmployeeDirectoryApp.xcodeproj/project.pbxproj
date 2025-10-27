@@ -16,7 +16,9 @@
 		C086762927FD351C004722EF /* EmployeeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C086762827FD351C004722EF /* EmployeeDetailView.swift */; };
 		C086762B27FD3578004722EF /* EmployeeImageUrlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C086762A27FD3578004722EF /* EmployeeImageUrlView.swift */; };
 		C086762D27FD35A2004722EF /* EmployeeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C086762C27FD35A2004722EF /* EmployeeModel.swift */; };
-		C086762F27FD35F1004722EF /* EmployeeImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C086762E27FD35F1004722EF /* EmployeeImageModel.swift */; };
+				C086762F27FD35F1004722EF /* EmployeeImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C086762E27FD35F1004722EF /* EmployeeImageModel.swift */; };
+		0697170F07A749F78405E954 /* EmployeeListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13C1EDE907D4700864D15C4 /* EmployeeListViewModel.swift */; };
+		1EB4DB04C35A42B99B6109B8 /* EmployeeImageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A18B032AA4945488E71A5BE /* EmployeeImageViewModel.swift */; };
 		C09846BE2802673500548B3D /* ReadMe.strings in Resources */ = {isa = PBXBuildFile; fileRef = C09846BD2802673500548B3D /* ReadMe.strings */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +34,9 @@
 		C086762827FD351C004722EF /* EmployeeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeDetailView.swift; sourceTree = "<group>"; };
 		C086762A27FD3578004722EF /* EmployeeImageUrlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeImageUrlView.swift; sourceTree = "<group>"; };
 		C086762C27FD35A2004722EF /* EmployeeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeModel.swift; sourceTree = "<group>"; };
-		C086762E27FD35F1004722EF /* EmployeeImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeImageModel.swift; sourceTree = "<group>"; };
+				C086762E27FD35F1004722EF /* EmployeeImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeImageModel.swift; sourceTree = "<group>"; };
+		E13C1EDE907D4700864D15C4 /* EmployeeListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeListViewModel.swift; sourceTree = "<group>"; };
+		2A18B032AA4945488E71A5BE /* EmployeeImageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeImageViewModel.swift; sourceTree = "<group>"; };
 		C09846BD2802673500548B3D /* ReadMe.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = ReadMe.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,6 +74,7 @@
 				C086762327FD34B7004722EF /* Resource */,
 				C086762427FD34C8004722EF /* View */,
 				C086762527FD34D2004722EF /* Model */,
+				6E9EF8F0522140E28F4FE047 /* ViewModel */,
 				C086760D27FD32A9004722EF /* AppDelegate.swift */,
 				C086760F27FD32A9004722EF /* SceneDelegate.swift */,
 				C086762127FD3490004722EF /* ContentView.swift */,
@@ -104,6 +109,15 @@
 				C086762E27FD35F1004722EF /* EmployeeImageModel.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		6E9EF8F0522140E28F4FE047 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				E13C1EDE907D4700864D15C4 /* EmployeeListViewModel.swift */,
+				2A18B032AA4945488E71A5BE /* EmployeeImageViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -184,7 +198,9 @@
 				C086762227FD3490004722EF /* ContentView.swift in Sources */,
 				C086762B27FD3578004722EF /* EmployeeImageUrlView.swift in Sources */,
 				C086761027FD32A9004722EF /* SceneDelegate.swift in Sources */,
-				C086762F27FD35F1004722EF /* EmployeeImageModel.swift in Sources */,
+								C086762F27FD35F1004722EF /* EmployeeImageModel.swift in Sources */,
+				0697170F07A749F78405E954 /* EmployeeListViewModel.swift in Sources */,
+				1EB4DB04C35A42B99B6109B8 /* EmployeeImageViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

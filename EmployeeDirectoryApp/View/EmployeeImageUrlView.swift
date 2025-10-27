@@ -1,32 +1,47 @@
 //
-//  EmployeeImageUrlView.swift
+//  EmployeeImageView.swift
 //  EmployeeDirectoryApp
-//
 //
 //  Created by Twinkle on 2022-04-05.
 //
 
 import SwiftUI
 
-struct EmployeeImageUrlView: View {
-    @ObservedObject var urlImageModel: EmployeeImageModel
+struct EmployeeImageView: View {
+    @StateObject private var viewModel: EmployeeImageViewModel
     
     init(urlString: String?) {
-        urlImageModel = EmployeeImageModel(urlString: urlString)
+        _viewModel = StateObject(wrappedValue: EmployeeImageViewModel(urlString: urlString))
     }
     
     var body: some View {
-        Image(uiImage: urlImageModel.image ?? EmployeeImageUrlView.defaultImage!)
-            .resizable()
-            .scaledToFit()
-            .frame(width: 120, height: 120).cornerRadius(8).shadow(color: .gray, radius: 5, x: 1, y: 1)
+        Group {
+            if let image = viewModel.image {
+                Image(uiImage: image)
+                    .resizable()
+                    .scaledToFit()
+            } else if viewModel.isLoading {
+                Image(uiImage: EmployeeImageView.defaultImage!)
+                    .resizable()
+                    .scaledToFit()
+                    .opacity(0.5)
+            } else {
+                Image(uiImage: EmployeeImageView.defaultImage!)
+                    .resizable()
+                    .scaledToFit()
+            }
+        }
+        .frame(width: 120, height: 120)
+        .clipShape(Circle())
+        .shadow(color: Color.black.opacity(0.3), radius: 8, x: 0, y: 4)
+        .shadow(color: Color.black.opacity(0.15), radius: 2, x: 0, y: 1)
     }
     
-    static var defaultImage = UIImage(named: "load")
+    static let defaultImage = UIImage(named: "load")
 }
 
-struct UrlImageView_Previews: PreviewProvider {
+struct EmployeeImageView_Previews: PreviewProvider {
     static var previews: some View {
-        EmployeeImageUrlView(urlString: nil)
+        EmployeeImageView(urlString: nil)
     }
 }

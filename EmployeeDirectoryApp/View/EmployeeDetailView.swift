@@ -8,37 +8,62 @@
 import SwiftUI
 
 struct EmployeeDetailView: View {
-    @ObservedObject var employeeModel = EmployeeModel()
+    @StateObject private var viewModel = EmployeeListViewModel()
     
     var body: some View {
         NavigationView {
-            List(employeeModel) { (employees: EmployeeDetails) in
-                EmployeeListView(employees: employees)
+            ZStack {
+                if viewModel.isLoading && viewModel.employees.isEmpty {
+                    ProgressView()
+                } else {
+                    List(viewModel.employees) { employee in
+                        EmployeeListView(employee: employee)
+                    }
+                    .refreshable {
+                        viewModel.refreshEmployees()
+                    }
+                }
             }
-        .navigationBarTitle("Employee Directory")
+            .navigationBarTitle("Employee Directory")
         }
-        .refreshable {
-            employeeModel.employeeDetails.removeAll()
-            employeeModel.loadMoreEmployees()
-        }
-
     }
 }
 
-
 struct EmployeeListView: View {
-    var employees: EmployeeDetails
+    let employee: Employee
+    
     var body: some View {
         HStack(alignment: .top) {
-            EmployeeImageUrlView(urlString: employees.photo_url_small)
-            VStack(alignment: .leading) {
-                Text("\(employees.full_name ?? "")")
+            EmployeeImageView(urlString: employee.photoUrlSmall)
+            VStack(alignment: .leading, spacing: 4) {
+                Text(employee.fullName ?? "Unknown Name")
                     .font(.headline)
                     .fontWeight(.bold)
-                Text("\(employees.phone_number ?? "")").font(.subheadline)
-                Text("\(employees.team ?? "")").font(.subheadline)
-                Text("\(employees.email_address ?? "")").foregroundColor(.blue)
-                Text("\(employees.biography ?? "")").font(.subheadline).fontWeight(.thin).foregroundColor(.secondary)
+                    .foregroundColor(.red)
+                    .underline()
+                
+                if let phoneNumber = employee.phoneNumber {
+                    Text(phoneNumber)
+                        .font(.subheadline)
+                }
+                
+                if let team = employee.team {
+                    Text(team)
+                        .font(.subheadline)
+                }
+                
+                if let email = employee.emailAddress {
+                    Text(email)
+                        .font(.subheadline)
+                        .foregroundColor(.blue)
+                }
+                
+                if let biography = employee.biography {
+                    Text(biography)
+                        .font(.subheadline)
+                        .fontWeight(.thin)
+                        .foregroundColor(.secondary)
+                }
             }
         }
     }
