@@ -9,9 +9,11 @@ import SwiftUI
 
 struct EmployeeImageView: View {
     @StateObject private var viewModel: EmployeeImageViewModel
+    var frameSize: CGFloat?
     
-    init(urlString: String?) {
+    init(urlString: String?, frameSize: CGFloat? = 120) {
         _viewModel = StateObject(wrappedValue: EmployeeImageViewModel(urlString: urlString))
+        self.frameSize = frameSize
     }
     
     var body: some View {
@@ -31,10 +33,11 @@ struct EmployeeImageView: View {
                     .scaledToFit()
             }
         }
-        .frame(width: 120, height: 120)
+        .frame(width: frameSize, height: frameSize)
         .clipShape(Circle())
         .shadow(color: Color.black.opacity(0.3), radius: 8, x: 0, y: 4)
         .shadow(color: Color.black.opacity(0.15), radius: 2, x: 0, y: 1)
+        .contentShape(Circle())
     }
     
     static let defaultImage = UIImage(named: "load")
